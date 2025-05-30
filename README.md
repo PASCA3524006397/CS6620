@@ -1,6 +1,6 @@
 Quick Setup
 bash# Clone and enter directory
-git clone https://github.com/yourusername/calculator-project.git
+git clone[ https://github.com/yourusername/calculator-project.git](https://github.com/PASCA3524006397/CS6620)
 cd calculator-project
 
 # Create virtual environment
